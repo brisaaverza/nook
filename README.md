@@ -48,7 +48,7 @@ o tocá "Continuar con Google". El ingreso está simulado y entrás como Brisa.
 | Cargar un libro a mano, con aviso de duplicados | Funciona |
 | Biblioteca, detalle de libro y perfil de usuario | Funciona |
 | Likes, seguir usuarios | Después del MVP |
-| Feed con algoritmo, notificaciones en tiempo real, mensajes privados | **Fuera de alcance a propósito** |
+
 
 ---
 
